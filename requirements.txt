@@ -1,1 +1,4 @@
 flask
+SpeechRecognition
+pygame
+openai
